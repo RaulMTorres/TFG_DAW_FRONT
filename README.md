@@ -27,8 +27,8 @@ La comunicación entre capas se realiza mediante una API REST. La autenticación
 
 **Backend**
 - Java 17+
-- Maven o Gradle (según configuración del proyecto back)
-- Base de datos compatible (configurar en `application.properties`)
+- Maven
+- Base de datos postgresql
 
 ---
 
@@ -211,7 +211,4 @@ Para movimientos de salida (`OUT`), `entryDetails` es `null` y `exitDetails` con
 
 ---
 
-## Licencia
-
-MIT
 
