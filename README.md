@@ -370,6 +370,3 @@ Para movimientos de salida (`OUT`), `entryDetails` es `null` y `exitDetails` con
 
 ---
 
-## Licencia
-
-MIT
